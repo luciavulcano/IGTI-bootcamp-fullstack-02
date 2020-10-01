@@ -1,0 +1,34 @@
+ul,
+li {
+  list-style-type: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 5rem 20rem;
+  border-style: dotted;
+}
+
+.formulario {}
+
+.nomes {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.deleteButton {
+  color: white;
+  font-weight: bold;
+  background-color: darkred;
+  margin-right: 10px;
+  border-radius: 50%;
+}
