@@ -2,6 +2,8 @@
 
 trabalho prático do módulo 01 do bootcamp de fullstack do IGTI, utilizando JavaScript para manipular o DOM e fazer um sistema de cadastro de nomes. 
 
+https://luciavulcano.github.io/IGTI-bootcamp-fullstack-02/
+
 funcionalidades:
 
 - adiciona um nome na lista;
